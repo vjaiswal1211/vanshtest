@@ -1,0 +1,4 @@
+com\vishalMaven\mavenSetupForVishal\TestNG_Grouping.class
+pageclasses\SearchPageFactoryObjetRepository.class
+com\vishalMaven\mavenSetupForVishal\TestNG_TestSuite.class
+pageclasses\SearchPage.class

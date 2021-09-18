@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-18T21:20:02 AEST" name="Default suite" finished-at="2021-09-18T21:20:02 AEST" duration-ms="48">
+    <groups>
+      <group name="SUV">
+        <method signature="TestNG_Grouping.BMWX3()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" name="BMWX3" class="com.vishalMaven.mavenSetupForVishal.TestNG_Grouping"/>
+      </group> <!-- SUV -->
+      <group name="Audi">
+        <method signature="TestNG_Grouping.AudiA6()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" name="AudiA6" class="com.vishalMaven.mavenSetupForVishal.TestNG_Grouping"/>
+      </group> <!-- Audi -->
+      <group name="BMW">
+        <method signature="TestNG_Grouping.BMW3Series()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" name="BMW3Series" class="com.vishalMaven.mavenSetupForVishal.TestNG_Grouping"/>
+        <method signature="TestNG_Grouping.BMWX3()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" name="BMWX3" class="com.vishalMaven.mavenSetupForVishal.TestNG_Grouping"/>
+      </group> <!-- BMW -->
+      <group name="Honda">
+        <method signature="TestNG_Grouping.HondaAccord()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" name="HondaAccord" class="com.vishalMaven.mavenSetupForVishal.TestNG_Grouping"/>
+      </group> <!-- Honda -->
+      <group name="Sedan">
+        <method signature="TestNG_Grouping.AudiA6()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" name="AudiA6" class="com.vishalMaven.mavenSetupForVishal.TestNG_Grouping"/>
+        <method signature="TestNG_Grouping.BMW3Series()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" name="BMW3Series" class="com.vishalMaven.mavenSetupForVishal.TestNG_Grouping"/>
+        <method signature="TestNG_Grouping.HondaAccord()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" name="HondaAccord" class="com.vishalMaven.mavenSetupForVishal.TestNG_Grouping"/>
+      </group> <!-- Sedan -->
+    </groups>
+    <test started-at="2021-09-18T21:20:02 AEST" name="Default test" finished-at="2021-09-18T21:20:02 AEST" duration-ms="48">
+      <class name="com.vishalMaven.mavenSetupForVishal.TestNG_Grouping">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" started-at="2021-09-18T21:20:02 AEST" name="beforeClass" finished-at="2021-09-18T21:20:02 AEST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" started-at="2021-09-18T21:20:02 AEST" name="beforeMethod" finished-at="2021-09-18T21:20:02 AEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="AudiA6()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" started-at="2021-09-18T21:20:02 AEST" name="AudiA6" finished-at="2021-09-18T21:20:02 AEST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AudiA6 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" started-at="2021-09-18T21:20:02 AEST" name="afterMethod" finished-at="2021-09-18T21:20:02 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="BMW3Series()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" started-at="2021-09-18T21:20:02 AEST" name="BMW3Series" finished-at="2021-09-18T21:20:02 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMW3Series -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" started-at="2021-09-18T21:20:02 AEST" name="beforeMethod" finished-at="2021-09-18T21:20:02 AEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" started-at="2021-09-18T21:20:02 AEST" name="afterMethod" finished-at="2021-09-18T21:20:02 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="BMWX3()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" started-at="2021-09-18T21:20:02 AEST" name="BMWX3" finished-at="2021-09-18T21:20:02 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMWX3 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" started-at="2021-09-18T21:20:02 AEST" name="beforeMethod" finished-at="2021-09-18T21:20:02 AEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" started-at="2021-09-18T21:20:02 AEST" name="beforeMethod" finished-at="2021-09-18T21:20:02 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" started-at="2021-09-18T21:20:02 AEST" name="afterMethod" finished-at="2021-09-18T21:20:02 AEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="HondaAccord()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" started-at="2021-09-18T21:20:02 AEST" name="HondaAccord" finished-at="2021-09-18T21:20:02 AEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HondaAccord -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" started-at="2021-09-18T21:20:02 AEST" name="afterMethod" finished-at="2021-09-18T21:20:02 AEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.vishalMaven.mavenSetupForVishal.TestNG_Grouping@5afa3c9]" started-at="2021-09-18T21:20:02 AEST" name="afterClass" finished-at="2021-09-18T21:20:02 AEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.vishalMaven.mavenSetupForVishal.TestNG_Grouping -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
